@@ -1,6 +1,8 @@
 # TIL
 
-- 좋은 개발자가 되기 위해 하루동안 학습한 내용이나 개발 관련 경험들을 꾸준히 남기는게 목적이다.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/edelweiss2/github-readme-stats)
+
+- 좋은 개발자가 되기 위해 하루동안 학습한 내용이나 개발 관련 경험들을 꾸준히 남기는게 목적
 
 ## 작성 규칙
 ---
@@ -12,8 +14,7 @@
 ## 분류
 ---
 
-### Semnar & Conference
+### Seminar & Conference
 
-- 2022.10.25 ~~
-- 2022.11.01 ~~
-  
+- 2022.10.25
+- 2022.11.01 
